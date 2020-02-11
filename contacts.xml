@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>yasir</first_name>
+	<last_name>khan</last_name>
+	<phone_number>9670094838</phone_number>
+	<notes>hello, yasir</notes>
+</contact>
+<contact>
+	<first_name>shashank</first_name>
+	<last_name>agarwal</last_name>
+	<phone_number>8896939147</phone_number>
+	<notes>hi, shashank</notes>
+</contact>
+</contacts>
